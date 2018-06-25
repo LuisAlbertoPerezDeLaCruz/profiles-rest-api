@@ -37,4 +37,5 @@ tablib==0.11.5
 unicodecsv==0.14.1
 xlrd==1.0.0
 xlwt==1.2.0
+python3-venv
 uWSGI==2.0.15
